@@ -64,4 +64,4 @@ python > 3.6
 
 
 ## Author
-> ## Tanasorn Tritawisup  #6010545790
+Tanasorn Tritawisup  #6010545790
